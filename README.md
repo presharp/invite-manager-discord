@@ -1,6 +1,7 @@
 # invite-manager-discord
 
 Since 5 people were bragging about having my source code 😭
+I'll let anyone have it and skiddies who can token me can get $300 BTCUSD from me if they manage
 
 # Installation instructions
 - Run NPM install or use a managed host to install required packages
