@@ -5,6 +5,7 @@ Since 5 people were bragging about having my source code 😭
 # Installation instructions
 - Run NPM install or use a managed host to install required packages
 - Import database.sql into a mysql database
+- Fill the required details in config.js
 - Run the script
 
 # Dependencies
